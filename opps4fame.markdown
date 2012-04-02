@@ -1,11 +1,23 @@
 # Opportunities for Fame #
 A chronicle various opportunities for fame [alxjrvs](https://github.com/alxjrvs/) has missed and seized.
 
+## Sorry I missed Your Party ##
+**seized** 
+*3 Jan 2012*
+Alex appears in [Sorry I missed your Party](http://www.sorryimissedyourparty.com/2012/01/facebook-vs-flick.html "Sorry"). 
+
+
 ## A Challenger Approaches ##
 **missed**
 *3 Sep 2009*
 Alex [appears to have won](https://twitter.com/#!/garyvee/status/3749213559) a free book from Gary Vaynerchuk, but [it's not Alex](https://twitter.com/alexjarvis/status/3749360052).
 https://twitter.com/alexjarvis
+
+## The World According to Twitter ## 
+**seized**
+*1 Sep 2009* 
+Alex gets included in David Pogue's book, "The World According to Twitter." 
+http://www.amazon.com/World-According-Twitter-David-Pogue/dp/1579128270
 
 ## OPPORTUNITY FOR FAME Hackathon ##
 **seized**
